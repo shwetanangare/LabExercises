@@ -1,0 +1,9 @@
+This is source file.
+Data from this file is copied
+to destination file.
+This is source file.
+Data from this file is copied
+to destination file.
+This is source file.
+Data from this file is copied
+to destination file.
